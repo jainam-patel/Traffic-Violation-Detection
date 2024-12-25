@@ -63,15 +63,11 @@ After detecting the vehicles three violation cases arises-
 ### Database Structure
 
 We have used SQLite database with python to manage the whole data of our application. Here, in the relational database we have used BCNF of 5 tables. The tables are:
-
 1. Cars
 2. Rules
 3. Cameras
 4. Violations
 5. Groups
-
-![Database Scheme](images/schema.png)
-
 ** Here are the descriptions of each tables: **
 
 ##### Cars:
